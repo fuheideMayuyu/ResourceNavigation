@@ -7,6 +7,7 @@
 [结构化算法刷题训练指南](https://github.com/apachecn/awesome-algorithm)<br/>
 [TypeScript使用手册](https://github.com/zhongsp/TypeScript)<br/>
 [JavaScript 完全手册（2018版）](https://juejin.im/entry/5c0f1790e51d45780317b7ad#comment)<br/>
+[async-validate 表单异步验证](https://github.com/tmpfs/async-validate)<br/>
 
 ### 前端资源
 [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)<br/>
