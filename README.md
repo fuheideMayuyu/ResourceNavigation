@@ -4,17 +4,17 @@
 [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)<br/>
 [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)<br/>
 [TypeScript使用手册](https://github.com/zhongsp/TypeScript)<br/>
-[结构化算法刷题训练指南](https://github.com/apachecn/awesome-algorithm)<br/>
 [JavaScript 完全手册（2018版）](https://juejin.im/entry/5c0f1790e51d45780317b7ad#comment)<br/>
 [async-validate 表单异步验证](https://github.com/tmpfs/async-validate)<br/>
-[leetcode的算法题题解-JavaScript版](https://github.com/laizimo/leetcode-answer)<br/>
+[JavaScript 学习 — 完全整理](https://github.com/csxiaoyaojianxian/JavaScriptStudy)
+
 
 ### 前端资源
 [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)<br/>
 [webGL理论基础](https://webglfundamentals.org/webgl/lessons/zh_cn/)<br/>
 [免费的编程中文书籍索引](https://github.com/justjavac/free-programming-books-zh_CN)<br/>
 [前端日报](https://github.com/wubaiqing/zaobao)<br/>
-[前端技术教程及文档](https://github.com/cucygh/fe-material)<br/>
+[前端技术教程及文档(全)](https://github.com/cucygh/fe-material)<br/>
 [《HTTP权威指南》知识点总结](https://github.com/woai30231/http)<br/>
 [freeCodeCamp 中文社区](https://www.freecodecamp.one/)<br/>
 [《Chrome插件开发全攻略》](https://github.com/sxei/chrome-plugin-demo)<br/>
@@ -22,8 +22,10 @@
 [JavaScript 资源大全中文版](https://github.com/jawil/awesome-javascript-cn)<br/>
 [Web 前端常用插件](https://github.com/iamjoel/front-end-plugins)<br/>
 [前端九部 - 入门者手册2019](https://github.com/iamjoel/front-end-plugins)<br/>
-[前端面试之道](https://yuchengkai.cn/docs/frontend/)<br/>
-[每天一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)<br/>
+[安邦的JavaScript学习笔记](https://github.com/anbang/javascript-notes)<br/>
+[chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
+[在这里找到写 CSS 的灵感](https://github.com/chokcoco/CSS-Inspiration)
+[灵活可扩展的 HTML5 构建工具](https://github.com/o2team/elf)
 
 ### 博客
 [louzhedong](https://github.com/louzhedong/blog)<br/>
@@ -36,6 +38,14 @@
 [汤姆大叔](http://www.cnblogs.com/TomXu/archive/2011/12/15/2288411.html)<br/>
 [Naice](https://blog.naice.me/article)<br/>
 
+### 算法
+[用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+[leetcode的算法题题解-JavaScript版](https://github.com/laizimo/leetcode-answer)<br/>
+[十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)<br/>
+[javaScript教程(阮一峰)](https://github.com/wangdoc/javascript-tutorial)
+[结构化算法刷题训练指南](https://github.com/apachecn/Interview)<br/>
+[leetcode题解](https://github.com/azl397985856/leetcode)
+
 ### vue资源
 [Element UI 源码分析](https://github.com/idev365-team/idev365_learn_element_ui_source_code)<br/>
 [element 源码分析讲解](https://github.com/athena0304/element-analysis)<br/>
@@ -44,9 +54,24 @@
 [Vue.js 源码分析2](https://github.com/answershuto/learnVue)<br/>
 [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)<br/>
 [Vue修饰符](https://segmentfault.com/a/1190000016786254)<br/>
+[Vue后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
+
+### 小程序
+[小程序资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+[小程序脚手架](https://github.com/pandolajs/pandora-boilerplate-wechat)
 
 ### nodejs
 [NodeJS各个模块练习案例](https://github.com/ningxiao/NodeJS)<br/>
+[全方位Node](https://www.bilibili.com/video/av38914382/?p=96)<br/>
+[node-debug tutorial](https://github.com/i5ting/node-debug-tutorial)
+
+### 前端面试题
+[前端面试之道](https://yuchengkai.cn/docs/frontend/)<br/>
+[每天一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)<br/>
+[前端基础，深入以及算法数据结构记录](https://github.com/louzhedong/blog)
+[前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview)
+[每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
+[大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)
 
 ### Fluter
 [Flutter中文网](https://book.flutterchina.club/)<br/>
