@@ -45,6 +45,7 @@
 [javaScript教程(阮一峰)](https://github.com/wangdoc/javascript-tutorial)<br/>
 [结构化算法刷题训练指南](https://github.com/apachecn/Interview)<br/>
 [leetcode题解](https://github.com/azl397985856/leetcode)<br/>
+[算法可视化](https://visualgo.net/zh)
 
 ### vue资源
 [Element UI 源码分析](https://github.com/idev365-team/idev365_learn_element_ui_source_code)<br/>
