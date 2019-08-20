@@ -23,9 +23,9 @@
 [Web 前端常用插件](https://github.com/iamjoel/front-end-plugins)<br/>
 [前端九部 - 入门者手册2019](https://github.com/iamjoel/front-end-plugins)<br/>
 [安邦的JavaScript学习笔记](https://github.com/anbang/javascript-notes)<br/>
-[chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)
-[在这里找到写 CSS 的灵感](https://github.com/chokcoco/CSS-Inspiration)
-[灵活可扩展的 HTML5 构建工具](https://github.com/o2team/elf)
+[chrome插件英雄榜](https://github.com/zhaoolee/ChromeAppHeroes)<br/>
+[在这里找到写 CSS 的灵感](https://github.com/chokcoco/CSS-Inspiration)<br/>
+[灵活可扩展的 HTML5 构建工具](https://github.com/o2team/elf)<br/>
 
 ### 博客
 [louzhedong](https://github.com/louzhedong/blog)<br/>
@@ -44,7 +44,7 @@
 [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)<br/>
 [javaScript教程(阮一峰)](https://github.com/wangdoc/javascript-tutorial)
 [结构化算法刷题训练指南](https://github.com/apachecn/Interview)<br/>
-[leetcode题解](https://github.com/azl397985856/leetcode)
+[leetcode题解](https://github.com/azl397985856/leetcode)<br/>
 
 ### vue资源
 [Element UI 源码分析](https://github.com/idev365-team/idev365_learn_element_ui_source_code)<br/>
@@ -54,24 +54,24 @@
 [Vue.js 源码分析2](https://github.com/answershuto/learnVue)<br/>
 [Vue相关开源项目库汇总](https://github.com/opendigg/awesome-github-vue)<br/>
 [Vue修饰符](https://segmentfault.com/a/1190000016786254)<br/>
-[Vue后台管理系统](https://github.com/PanJiaChen/vue-element-admin)
+[Vue后台管理系统](https://github.com/PanJiaChen/vue-element-admin)<br/>
 
 ### 小程序
-[小程序资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
-[小程序脚手架](https://github.com/pandolajs/pandora-boilerplate-wechat)
+[小程序资源汇总](https://github.com/justjavac/awesome-wechat-weapp)<br/>
+[小程序脚手架](https://github.com/pandolajs/pandora-boilerplate-wechat)<br/>
 
 ### nodejs
 [NodeJS各个模块练习案例](https://github.com/ningxiao/NodeJS)<br/>
 [全方位Node](https://www.bilibili.com/video/av38914382/?p=96)<br/>
-[node-debug tutorial](https://github.com/i5ting/node-debug-tutorial)
+[node-debug tutorial](https://github.com/i5ting/node-debug-tutorial)<br/>
 
 ### 前端面试题
 [前端面试之道](https://yuchengkai.cn/docs/frontend/)<br/>
 [每天一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)<br/>
-[前端基础，深入以及算法数据结构记录](https://github.com/louzhedong/blog)
-[前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview)
-[每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)
-[大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)
+[前端基础，深入以及算法数据结构记录](https://github.com/louzhedong/blog)<br/>
+[前端面试每日 3+1（每日三问）](https://github.com/haizlin/fe-interview)<br/>
+[每天 30 秒系列](https://github.com/b3log/30-seconds-zh_CN)<br/>
+[大前端面试宝典 - 图解前端](https://github.com/azl397985856/fe-interview)<br/>
 
 ### Fluter
 [Flutter中文网](https://book.flutterchina.club/)<br/>
