@@ -6,7 +6,7 @@
 [TypeScript使用手册](https://github.com/zhongsp/TypeScript)<br/>
 [JavaScript 完全手册（2018版）](https://juejin.im/entry/5c0f1790e51d45780317b7ad#comment)<br/>
 [async-validate 表单异步验证](https://github.com/tmpfs/async-validate)<br/>
-[JavaScript 学习 — 完全整理](https://github.com/csxiaoyaojianxian/JavaScriptStudy)
+[JavaScript 学习 — 完全整理](https://github.com/csxiaoyaojianxian/JavaScriptStudy)<br/>
 
 
 ### 前端资源
@@ -39,10 +39,10 @@
 [Naice](https://blog.naice.me/article)<br/>
 
 ### 算法
-[用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+[用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)<br/>
 [leetcode的算法题题解-JavaScript版](https://github.com/laizimo/leetcode-answer)<br/>
 [十大经典排序算法](https://github.com/hustcc/JS-Sorting-Algorithm)<br/>
-[javaScript教程(阮一峰)](https://github.com/wangdoc/javascript-tutorial)
+[javaScript教程(阮一峰)](https://github.com/wangdoc/javascript-tutorial)<br/>
 [结构化算法刷题训练指南](https://github.com/apachecn/Interview)<br/>
 [leetcode题解](https://github.com/azl397985856/leetcode)<br/>
 
