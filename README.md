@@ -8,6 +8,7 @@
 [async-validate 表单异步验证](https://github.com/tmpfs/async-validate)<br/>
 [JavaScript 学习 — 完全整理](https://github.com/csxiaoyaojianxian/JavaScriptStudy)<br/>
 [JavaScript Promise迷你书](http://liubin.org/promises-book/)<br/>
+[JavaScript思维导图](https://github.com/jaywcjlove/handbook/tree/master/Javascript)<br/>
 
 ### 前端资源
 [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)<br/>
@@ -28,7 +29,7 @@
 [灵活可扩展的 HTML5 构建工具](https://github.com/o2team/elf)<br/>
 [代码片段](https://www.pianduan.fun/?language_id=4&page=1)<br/>
 [css样式](https://qishaoxuan.github.io/css_tricks/hollowOut/#样式二)<br/>
-[天赋好书](https://www.cntofu.com/)
+[天赋好书](https://www.cntofu.com/)<br/>
 
 
 ### 博客
@@ -85,3 +86,15 @@
 
 ### Fluter
 [Flutter中文网](https://book.flutterchina.club/)<br/>
+
+### 开发规范
+[前端开发规范手册](https://juejin.im/entry/5602f35a60b2b52ca75013cb/)<br/>
+[WEB 前端规范](https://juejin.im/entry/5853a4cd1b69e6006c8649f1/)<br/>
+[Web 前端开发规范文档](https://juejin.im/entry/578dbf2c79bc44005ff4e477/)<br/>
+[HTML 最佳实践](https://juejin.im/entry/565a889260b21eabe0fefa98/)<br/>
+[CSS 命名规范总结](https://juejin.im/entry/57c80c31c4c97100541ebb31/)<br/>
+[Airbnb CSS / Sass 指南](https://juejin.im/entry/5707c60bd342d300542c60a4/)<br/>
+[CSS 代码格式](http://www.phpxs.com/j/cssguifan/1001046/)<br/>
+[JS 风格指南](https://juejin.im/post/587979148d6d810058bb3b32)<br/>
+[Airbnb 的 JavaScript 编程规范](https://juejin.im/entry/55a49c85e4b05001a7775df9/)<br/>
+[JavaScript 代码整洁之道](https://juejin.im/entry/589d1f8286b599006b2bb861/)<br/>
