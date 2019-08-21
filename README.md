@@ -1,6 +1,6 @@
 # ResourceNavigation
 资源导航
-### javaScript资源
+### javaScript基础篇
 [JS 函数式编程指南中文版](https://github.com/llh911001/mostly-adequate-guide-chinese)<br/>
 [TypeScript Deep Dive 中文版](https://github.com/jkchao/typescript-book-chinese)<br/>
 [TypeScript使用手册](https://github.com/zhongsp/TypeScript)<br/>
@@ -9,6 +9,17 @@
 [JavaScript 学习 — 完全整理](https://github.com/csxiaoyaojianxian/JavaScriptStudy)<br/>
 [JavaScript Promise迷你书](http://liubin.org/promises-book/)<br/>
 [JavaScript思维导图](https://github.com/jaywcjlove/handbook/tree/master/Javascript)<br/>
+[多年 JavaScript 学习笔记整理](https://juejin.im/entry/5812ec99570c3500605b366f/)<br/>
+[javascript 基础小结篇](https://gold.xitu.io/entry/57e7673da22b9d0061506d14/)<br/>
+[前端开发基础 - JavaScript](https://juejin.im/entry/56c69793efa63100544477af/)<br/>
+[挖 "掘" 淘 "金" 之 前端闯关历险记学习资料汇总](https://github.com/jawil/blog/issues/4)
+
+
+### javaScript进阶篇
+[前端基础进阶：详细图解 JavaScript 内存空间](https://juejin.im/entry/589c29a9b123db16a3c18adf/)<br/>
+[JavaScript 内存管理](https://juejin.im/entry/58b3914b2f301e006c10f6fb/)<br/>
+[JavaScript 中的内存释放](https://juejin.im/entry/5876018e128fe1006b4bda78/)<br/>
+[前端开发基础 - JavaScript](https://juejin.im/entry/56c69793efa63100544477af/)<br/>
 
 ### 前端资源
 [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs)<br/>
@@ -98,3 +109,4 @@
 [JS 风格指南](https://juejin.im/post/587979148d6d810058bb3b32)<br/>
 [Airbnb 的 JavaScript 编程规范](https://juejin.im/entry/55a49c85e4b05001a7775df9/)<br/>
 [JavaScript 代码整洁之道](https://juejin.im/entry/589d1f8286b599006b2bb861/)<br/>
+[编程风格](https://juejin.im/entry/57c9256b67f3560057b00cbd/)<br/>
