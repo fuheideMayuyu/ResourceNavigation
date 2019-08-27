@@ -84,6 +84,7 @@
 [NodeJS各个模块练习案例](https://github.com/ningxiao/NodeJS)<br/>
 [全方位Node](https://www.bilibili.com/video/av38914382/?p=96)<br/>
 [node-debug tutorial](https://github.com/i5ting/node-debug-tutorial)<br/>
+[Nodejs 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)<br/>
 
 ### 前端面试题
 [前端面试之道](https://yuchengkai.cn/docs/frontend/)<br/>
